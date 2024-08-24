@@ -1,6 +1,11 @@
 #+AUTHOR: Alex Lu
 #+EMAIL: alexluigit@gmail.com
 #+startup: content
+
+This fork is deprecated in favor of [[https://github.com/hlissner/dirvish][@hlissner's]], which includes my work from [[https://github.com/jcf/dirvish/commit/8d047a221dff3d2aa7b4663a9723a2c6e4e996ca][8d047a221]].
+
+-----
+
 #+html: <img src="https://user-images.githubusercontent.com/16313743/159204052-c8caf89d-c44f-42c7-a177-4cd2491eaab6.svg" align="center" width="100%">
 -----
 #+html: <p align="center">A <i>polished</i> <b>Dired</b> with batteries included</p>
